@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @MuchemiMigwi
+- I'm a Caregiver working in Washngton US.
 - 👀 I’m interested in become your next Software Engineer
 - 🌱 I’m currently learning JavaScript and Java
 - 💞️ I’m looking to collaborate on impactful projects.
