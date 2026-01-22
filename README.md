@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @MuchemiMigwi
-- I'm a Caregiver working in Washington US.
-- 👀 I’m interested in become your next Software Engineer
+- I'm a Forensic Care Associate working in Washington, US.
+- 👀 I’m interested in becoming your next Software Engineer
 - 🌱 I’m currently learning JavaScript, Java, and effective ChatGPT Prompting techniques.
 - 💞️ I’m looking to collaborate on impactful projects.
-- 📫 How to reach me muchemi.migwi@gmail.com
+- 📫 How to reach me moses.muchemi@outlook.com
   
 
 <!---
